@@ -23,21 +23,13 @@ While **Serenity BDD with Java** offers many compelling features and is used in 
 
 ✅ **Expanding my automation toolkit** and understanding different testing philosophies  
 ✅ **Learning the Screenplay pattern** and its benefits for maintainable test code  
-✅ **Exploring comprehensive reporting capabilities** that go beyond basic test results  
-✅ **Understanding enterprise-grade test framework architecture** and configuration management  
-✅ **Gaining new perspectives** on test organization and stakeholder communication  
 
 While I wouldn't choose Serenity BDD for projects requiring extensive Shadow DOM interaction, this exploration has significantly broadened my understanding of test automation approaches and will inform my future framework decisions.
 
 ## 🎯 Motivation
 
-As a **Software Engineer in Test**, I'm showcasing a comprehensive Serenity BDD implementation that demonstrates:
-- **Modern testing patterns** and best practices
-- **Real-world enterprise scenarios** with proper configuration management
-- **Multiple testing approaches** from simple to advanced
-- **Complete CI/CD integration** with Maven and reporting
-
-This serves as both a **proof of concept** and a **reference implementation** for me to use in the future that i can work with serenity. 
+- A friend of mine was interviewed by Pinterest and was asked about screenplay patterns and I got curious about it. 
+- This serves as both a **proof of concept** and a **reference implementation** for my future self and increase confident that I can work with more technologies. 
 
 ## 🗂 What It Covers
 
@@ -187,9 +179,6 @@ webdriver {
 
 For comprehensive documentation and advanced usage patterns, see:
 - [Serenity BDD Complete Guide](Serenity_BDD_Complete_Guide.md) - Detailed implementation guide
-- [Official Serenity Documentation](https://serenity-bdd.info/)
-- [Screenplay Pattern Guide](https://serenity-bdd.info/docs/screenplay/screenplay_fundamentals)
-
 
 **Created by Jose Martinez**  
 *SDET | Automation Advocate*

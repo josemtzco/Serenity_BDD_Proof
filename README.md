@@ -11,12 +11,10 @@ While **Serenity BDD with Java** offers many compelling features and is used in 
 - **Multiple Testing Patterns**: Support for Page Object, Step Libraries, and Screenplay patterns
 - **BDD Integration**: Seamless Cucumber integration for stakeholder collaboration
 - **Enterprise Ready**: Built-in reporting, parallel execution, and CI/CD integration
-- **Long-term Support**: Mature framework with active community support
 
 **However, the critical limitation I encountered:**
 
 ❌ **Shadow DOM Support**: No straightforward way to interact with Shadow DOM elements using Screenplay pattern and WebElementFacade without significant refactoring or method overloading  
-❌ **Modern Web Components**: Limited support for modern web technologies that heavily rely on Shadow DOM  
 ❌ **Framework Rigidity**: Difficult to extend core functionality without breaking existing patterns  
 
 **Despite these limitations, this project has been invaluable for:**
